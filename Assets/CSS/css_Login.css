@@ -1,0 +1,130 @@
+.Login_Layout {
+    background-color: #F0F0F0;
+    margin: auto;
+    border: none;
+    border-radius: 3vw;
+    width: 50%;
+
+    border: 1px solid #F0F0F0;
+}
+
+.Form {
+    text-align: center;
+    position: relative;
+    margin: 2vh 2vw;
+}
+
+.Button_Back_Layout {
+    text-align: left;
+    width: 4vw;
+}
+
+#btn_Back {
+    border: none;
+    text-align: left;
+
+    color: red;
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.Form_Element {
+    font-family: "Poppins";
+    color: #000000;
+}
+
+#label_Header {
+    font-size: 36px;
+    font-weight: bold;
+
+    margin: auto;
+    text-align: center;
+    margin-right: auto;
+}
+
+.label {
+    color: #000000;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+#Username_Password_Layout {
+    margin: 2vh auto;
+}
+
+#lblUsername_Layout, #lblPassword_Layout {
+    padding: 1vh 2vw;
+    text-align: right;
+}
+
+#txtUsername_Layout, #txtPassword_Layout {
+    padding: 1vh 0vw;
+}
+
+#txtPassword, #txtUsername {
+    font-family: "Poppins";
+
+    padding: 1vh 1vw;
+
+    border: 3px solid black;
+    border-radius: 1vw;
+}
+
+.Form_Element_Button {
+    border: 1px solid black;
+}
+
+#Buttons_Layout {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+button {
+    width: 100%;
+    height: 100%;
+
+    font-family: "Poppins";
+    font-size: 18px;
+    color: white;
+
+    border: none;
+    border-radius: 1vw;
+
+    cursor: pointer;
+}
+
+.btn_Text {
+    margin: 1vh 1vw;
+}
+
+#btn_Login_Layout {
+    text-align: left;
+    width: 15vw;
+}
+
+#btn_LoginAdmin_Layout {
+    text-align: right;
+    width: 15vw;
+    padding-left: 2vw;
+}
+
+#btn_Login {
+    background-color: #45b6fe;
+}
+
+#btn_LoginAdmin {
+    background-color: blue;
+}
+
+#btn_SignUp_Layout {
+    margin-left: auto;
+    margin-right: auto;
+    width: 15vw;
+    margin-bottom: 8vh;
+}
+
+#btn_SignUp {
+    margin-top: 2.5vh;
+    padding: 0vh 3vw;
+    background-color: #2E8B57;
+}
