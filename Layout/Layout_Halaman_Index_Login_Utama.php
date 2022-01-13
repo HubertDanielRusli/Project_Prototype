@@ -11,7 +11,7 @@
 <html>
 <head>
     <title>Input Output Stock</title>
-    <link rel="stylesheet" type="text/css" href="../Layout.css">
+    <link rel="stylesheet" type="text/css" href="../Assets/CSS/Layout.css">
 </head>
 <body>
     <div class="Layout">
